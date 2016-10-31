@@ -1,6 +1,6 @@
 # Intro to WDI and Team
 
-<!--5-10 minutes -->
+<!--10 minutes -->
 
 ### Introductions
 <!-- Instructors introductions -->
@@ -8,19 +8,20 @@
 Let's start with a quick introduction:
 
 - What is your name?
-- Why are you here?
+- What were you doing before this course?
 - What do you hope to get out of this class?
  
-Let's round those introductions with a small name game
+Let's round out those introductions with a small name game
 - Attach an adjective to your name that begins with the same letter as your first name
-- Instructors will try to name everyone
+
+<!-- Instructors will try to name everyone -->
 
 <!--10 minutes -->
 
 ### Trivial Pursuit
 
- - This activity will require you to answer some really difficult questions.  See how many you can answer on your own. No cheating.  Laptops closed and phones away, please.  Take 5 minutes.
- - Now get into groups of 4 (2 can turn around to face other 2).  See how many more you can get answered.  Take 5 minutes.
+ - This activity will require you to answer some really difficult questions.  See how many you can answer on your own. No cheating.  Laptops closed and phones away, please.  Take 4 minutes.
+ - Now get into groups of 4 (2 can turn around to face other 2).  See how many more you can get answered.  Take 4 minutes.
  - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
  - Let's talk about what we learned.  Any big takeaways?
  
