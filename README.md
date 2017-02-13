@@ -20,6 +20,9 @@ Let's round out those introductions with a small name game
 
 ### Trivial Pursuit
 
+<!--Instructors can find trivia here: https://docs.google.com/a/generalassemb.ly/document/d/1Pi8fNshSG6xcV_V5rH91LCcZPPkaSX3nFIGH6BTwsPY/edit?usp=sharing
+-->
+
  - This activity will require you to answer some really difficult questions.  See how many you can answer on your own. No cheating.  Laptops closed and phones away, please.  Take 4 minutes.
  - Now get into groups of 4 (2 can turn around to face other 2).  See how many more you can get answered.  Take 4 minutes.
  - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
