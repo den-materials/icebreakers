@@ -2,7 +2,11 @@
 
 # Intro to WDI and Team
 
-<!--10 minutes -->
+<!--9:00 5 minutes -->
+
+<!--Send out first Google Form in slack -->
+
+<!--9:05 10 minutes -->
 
 ### Introductions
 <!-- Instructors introductions -->
@@ -18,7 +22,7 @@ Let's round out those introductions with a small name game
 
 <!-- Instructors will try to name everyone -->
 
-<!--10 minutes -->
+<!--9:15 15 minutes -->
 
 ### Trivial Pursuit
 
@@ -30,7 +34,7 @@ Let's round out those introductions with a small name game
  - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
  - Let's talk about what we learned.  Any big takeaways?
  
-<!-- 5 minutes -->
+<!-- 9:30 5 minutes -->
 
 ### One Cool Thing
 
