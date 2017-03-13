@@ -6,6 +6,7 @@
 
 <!--Send out first Google Form in slack -->
 
+<!--Actually 9:10 -->
 <!--9:05 10 minutes -->
 
 ### Introductions
@@ -22,6 +23,8 @@ Let's round out those introductions with a small name game
 
 <!-- Instructors will try to name everyone -->
 
+<!--Actually 9:22 -->
+
 <!--9:15 15 minutes -->
 
 ### Trivial Pursuit
@@ -34,6 +37,7 @@ Let's round out those introductions with a small name game
  - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
  - Let's talk about what we learned.  Any big takeaways?
  
+<!--Actually 9:38 -->
 <!-- 9:30 5 minutes -->
 
 ### One Cool Thing
@@ -41,3 +45,5 @@ Let's round out those introductions with a small name game
  - Throughout this first week, we are expecting you to learn one cool thing about one of your fellow Developers every day.  Since you already have a group to share with, share your one cool thing with the group.
  - Now that we know some cool things about each other, tell the whole class one cool thing you learned about one of your group members.  No repeats, please.
  - We have just done a "Whip-Around", which is another activity we will do a few times in this class.
+
+<!--Actually 9:45 -->
