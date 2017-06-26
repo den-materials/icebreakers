@@ -7,6 +7,7 @@
 <!--Send out first Google Form in slack -->
 
 <!--Actually 9:10 -->
+<!--9:11 WDI4 -->
 <!--9:05 10 minutes -->
 
 ### Introductions
@@ -17,14 +18,12 @@ Let's start with a quick introduction:
 - What is your name?
 - What were you doing before this course?
 - What do you hope to get out of this class?
- 
-Let's round out those introductions with a small name game
-- Attach an adjective to your name that begins with the same letter as your first name
 
 <!-- Instructors will try to name everyone -->
 
 <!--Actually 9:22 -->
 
+<!--9:20 WDI4 -->
 <!--9:15 15 minutes -->
 
 ### Trivial Pursuit
@@ -47,3 +46,4 @@ Let's round out those introductions with a small name game
  - We have just done a "Whip-Around", which is another activity we will do a few times in this class.
 
 <!--Actually 9:45 -->
+<!--9:43 when One Cool Things have been discussed as group but not as class -->
