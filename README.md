@@ -41,8 +41,8 @@ Let's start with a quick introduction:
 
 ### One Cool Thing
 
- - Throughout this first week, we are expecting you to learn one cool thing about one of your fellow Developers every day.  Since you already have a group to share with, share your one cool thing with the group.
- - Now that we know some cool things about each other, tell the whole class one cool thing you learned about one of your group members.  No repeats, please.
+ - Throughout this first week, we are expecting you to learn one cool thing about one of your fellow Developers every day.  Turn to your neighbor at your table, and share one cool thing about you with them.
+ - Now that we know some cool things about each other, tell the whole class one cool thing you learned about your neighbor.
  - We have just done a "Whip-Around", which is another activity we will do a few times in this class.
 
 <!--Actually 9:45 -->
