@@ -3,8 +3,9 @@
 # Intro to WDI and Team
 
 <!--9:00 5 minutes -->
+<!--WDI5 9:01-->
 
-<!--Send out first Google Form in slack -->
+<!--Send out first Google Form check-in in slack -->
 
 <!--Actually 9:10 -->
 <!--9:11 WDI4 -->
@@ -19,10 +20,9 @@ Let's start with a quick introduction:
 - What were you doing before this course?
 - What do you hope to get out of this class?
 
-<!-- Instructors will try to name everyone -->
-
 <!--Actually 9:22 -->
 
+<!--9:11 WDI5-->
 <!--9:20 WDI4 -->
 <!--9:15 15 minutes -->
 
@@ -31,8 +31,9 @@ Let's start with a quick introduction:
 <!--Instructors can find trivia here: https://docs.google.com/a/generalassemb.ly/document/d/1Pi8fNshSG6xcV_V5rH91LCcZPPkaSX3nFIGH6BTwsPY/edit?usp=sharing
 -->
 
+<!--WDI5 9:13 starting top bullet -->
  - This activity will require you to answer some really difficult questions.  See how many you can answer on your own. No cheating.  Laptops closed and phones away, please.  Take 4 minutes.
- - Now get into groups of 4 (2 can turn around to face other 2).  See how many more you can get answered.  Take 4 minutes.
+ - Now turn to your partner.  See how many more you can get answered.  Take 4 minutes.
  - Now ask Professor Google.  See how many more you can get answered.  Take 2 minutes.
  - Let's talk about what we learned.  Any big takeaways?
  
